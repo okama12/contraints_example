@@ -6,13 +6,8 @@ This Flutter project demonstrates responsive design and state management in a mo
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Overview](#code-overview)
-  - [Main Application](#main-application)
-  - [Splash Screen](#splash-screen)
-  - [Home Screen](#home-screen)
-  - [Navigation Drawer](#navigation-drawer)
-  - [Registration Form](#registration-form)
-  - [Registration Form Provider](#registration-form-provider)
+- [group-members](#group-members)
+
 
 ## Features
 - Splash screen that navigates to the registration form after a delay.
@@ -49,4 +44,25 @@ This Flutter project demonstrates responsive design and state management in a mo
 
 
 
-# GROUP Members 
+# group-members
+NO	NAME	                       REGISTRATION NUMBER
+1.	ISSA YASINI RASHID	           BCS/0069/2021
+2.	BURHAN.M. KIWANGO	           BCS/0068/2021
+3.	BARAKA ABUBAKARI	           BCS/0008/2021
+4.	RAMADHANI H. ARBOGAST	       BCS/0076/2021
+5.	GODFREY A. KILAMLYA	           BCS/0030/2021
+6.	MUSA SEVERINI SHIRIMA	       BCS/0052/2021
+7.	FREDY J. FELIX	               BCS/0104/2021
+8.	JANETH J. KIDEGEYE	           BCS/0105/2021
+9.	YUNUS ABDALLAH IGILO	       BCS/0103/2021
+10.	FORTUNATUS D. MANYINYI	       BCS/0012/2021
+11.	MARIAM A RAPHAEL	           BCS/0016/2021
+12. COSTANTINE M JOHNSON	       BCS/0002/2021
+13. RASHIDI B OKAMA	               BCS/0044/2021
+14. CHIKU M. ABDUL	               BCS/0015/2021
+15. ALEX K MWERA	               BCS/0035/2021
+16. MOHAMED I. CHABU	           BCS/0046/2021
+17. HALIMA S KOMBO	               BCS/0047/2021
+18. REJOICE M HAULE	               BCS/0007/2021
+19. ALLY Y ALLY	                   BCS/0022/2021
+20.	JAPHET  G. TARIMO	           BCS/0004/2021
