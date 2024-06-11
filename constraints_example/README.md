@@ -1,7 +1,6 @@
 # constraints_example GROUP NUMBER 3
-# Registration Form App
 
-This Flutter application provides a registration form where users can input their personal information, which is then displayed on a home screen. The app includes a splash screen, a navigation drawer, and utilizes the Provider package for state management.
+This Flutter project demonstrates responsive design and state management in a mobile application.The application provides a registration form where users can input their personal information, which is then displayed on a home screen. The app includes a splash screen, a navigation drawer, and utilizes the Provider package for state management.
 
 ## Table of Contents
 - [Features](#features)
