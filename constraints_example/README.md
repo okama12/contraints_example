@@ -20,7 +20,7 @@ This Flutter project demonstrates responsive design and state management in a mo
 1. Ensure you have Flutter installed on your machine. For installation instructions, visit the [Flutter website](https://flutter.dev/docs/get-started/install).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/registration-form-app.git
+   git clone git remote add origin https://github.com/okama12/contraints_example.git
    ```
 3. Navigate to the project directory:
    ```bash
